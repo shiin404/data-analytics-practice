@@ -1,0 +1,49 @@
+{
+  "revenue": 3139000,
+  "quantity": 160,
+  "records": 25,
+  "mean_price": 63136.0,
+  "categories": 5,
+  "median_price": 14000.0,
+  "top3": {
+    "Ноутбук": 1280000,
+    "Монитор": 475000,
+    "Смартфон": 420000
+  },
+  "category_revenue": {
+    "Техника": 2259000,
+    "Аксессуары": 440500,
+    "Дом": 202500,
+    "Спорт": 124000,
+    "Канцтовары": 113000
+  },
+  "best_day": "2026-11-01",
+  "best_revenue": 692000,
+  "worst_day": "2026-11-06",
+  "worst_revenue": 54000,
+  "quality": {
+    "missing": {
+      "id": 0,
+      "product": 0,
+      "category": 0,
+      "price": 0,
+      "quantity": 0,
+      "sale_date": 0,
+      "revenue": 0
+    },
+    "duplicates_without_id": 0,
+    "invalid_prices": 0,
+    "invalid_quantities": 0
+  },
+  "outlier_experiment": {
+    "before": {
+      "mean": 63136.0,
+      "median": 14000.0
+    },
+    "with_outlier": {
+      "mean": 637630.7692307692,
+      "median": 16000.0
+    },
+    "restored": true
+  }
+}

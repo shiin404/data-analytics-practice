@@ -1,0 +1,16 @@
+{
+  "before": {
+    "revenue": 2635500,
+    "quantity": 132,
+    "records": 20,
+    "mean_price": 60805.0
+  },
+  "after": {
+    "revenue": 3139000,
+    "quantity": 160,
+    "records": 25,
+    "mean_price": 63136.0
+  },
+  "added_records": 5,
+  "added_revenue": 503500
+}
